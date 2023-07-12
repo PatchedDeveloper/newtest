@@ -1,4 +1,4 @@
-//
+//developed by Danila Kardashevskii
 import SwiftUI
 
 struct TaskItem: Identifiable {
